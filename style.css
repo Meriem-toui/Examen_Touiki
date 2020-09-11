@@ -1,0 +1,7 @@
+.carousel-inner{
+    height: 50vh;
+}
+.carousel-caption {
+    top: 20px;
+    bottom: auto;
+}
